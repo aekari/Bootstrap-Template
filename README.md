@@ -1,5 +1,10 @@
 # BOOTSTRAP TEMPLATE
 
-This is a template using Bootstrap 3. Remember to change github repo with:
+This project is a website *boilerplate* and includes:
+- Bootstrap 3 (bootstrap.min.js)
+- css files (bootstrap and styling.css)
+- folder for images
+- JavaScript and JQuery files (bootstrap included)
+- a README file
 
-git remote set-url origin _(paste in your link here, no underscores or "()")_
+![](https://i.imgur.com/9PmZ0Ks.png)
