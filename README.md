@@ -1,4 +1,4 @@
-# BOOTSTRAP BOILERPLATE
+# Bootstrap Template
 
 This project includes:
 - Bootstrap v3.3.7 (bootstrap.min.js)
