@@ -1,4 +1,4 @@
-# BOOTSTRAP Boilerplate
+# BOOTSTRAP BOILERPLATE
 
 This project includes:
 - Bootstrap 3 (bootstrap.min.js)
