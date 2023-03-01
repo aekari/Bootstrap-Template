@@ -1,10 +1,10 @@
 # BOOTSTRAP BOILERPLATE
 
 This project includes:
-- Bootstrap 3 (bootstrap.min.js)
+- Bootstrap v3.3.7 (bootstrap.min.js)
+- JQuery v3.2.1
 - css files (bootstrap and styling.css)
 - folder for images
-- JavaScript and JQuery files (bootstrap included)
 - a README file
 
 ![](https://i.imgur.com/9PmZ0Ks.png)
