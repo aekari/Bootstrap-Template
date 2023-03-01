@@ -1,6 +1,6 @@
-# BOOTSTRAP TEMPLATE
+# BOOTSTRAP Boilerplate
 
-This project is a website *boilerplate* and includes:
+This project includes:
 - Bootstrap 3 (bootstrap.min.js)
 - css files (bootstrap and styling.css)
 - folder for images
